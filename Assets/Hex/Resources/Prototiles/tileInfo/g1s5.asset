@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c36146b65cef70d4296a8c80beac69d9, type: 3}
+  m_Name: g1s5
+  m_EditorClassIdentifier: 
+  prefabName: grass 1 sand 6
+  cardTex: {fileID: 2800000, guid: 18d6628257af38a40a580f8420d6656e, type: 3}
+  meshTex: {fileID: 2800000, guid: a791938ec140ad84680e0fe5bf617cce, type: 3}
+  mesh: {fileID: 0}
+  material: {fileID: 0}
+  staticPreview: {fileID: 0}
+  segmentType: 010000000100000000000000010000000100000001000000
+  flagCount: 0
+  flagsE: []
+  flagsSE: []
+  flagsSW: []
+  flagsW: []
+  flagsNW: []
+  flagsNE: []
+  requireRepaint: 1
+  numberOfPrefabsToCreate: 0
+  spawnPoints: []

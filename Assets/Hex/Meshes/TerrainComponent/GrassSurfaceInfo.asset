@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307fd3a378591dc4aae74d50b88fbfd9, type: 3}
+  m_Name: GrassSurfaceInfo
+  m_EditorClassIdentifier: 
+  prefabName: grass surface
+  type: 0
+  isLandmark: 0
+  centerMesh: {fileID: 4706762652230973773, guid: f6aa98fda7b008943aab8ebbcc38d971,
+    type: 3}
+  sideMeshVariants:
+  - {fileID: -5190333384448180550, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: 4192321575381238774, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: -5295902855482061633, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: -6831777951501466076, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: -8304820803834628974, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: 1508846102079175718, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: 4054961286790510145, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  - {fileID: 6985856854879575792, guid: c051cdeb2dced9c4e8be692a97c602d8, type: 3}
+  matReg: {fileID: 2100000, guid: 528c34c58b4dfbc47bfc820a72bd4960, type: 2}
+  matGhost: {fileID: 2100000, guid: 0d1303057e35b0c4ca99406795e00b57, type: 2}
+  matWarn: {fileID: 2100000, guid: d803a6df275b8814d8079de4edc859d1, type: 2}
+  matGhostWarn: {fileID: 2100000, guid: b2e4ae1a02f37c340952a438cdb9d3d5, type: 2}
+  diffuseTexture: {fileID: 2800000, guid: 59919dcc976754d47a6542b70d434bca, type: 3}
+  alphaTexture: {fileID: 2800000, guid: 352aea0dcacf67b428674f417f8eb125, type: 3}
+  maskTexture: {fileID: 2800000, guid: 099af6ab93279a54c86538bf29f5ba44, type: 3}
+  worldTexture: {fileID: 2800000, guid: 599bf2ae2d0df9a44aa716ce4fb1bead, type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307fd3a378591dc4aae74d50b88fbfd9, type: 3}
+  m_Name: FertileSurfaceInfo
+  m_EditorClassIdentifier: 
+  prefabName: fortile surface
+  type: 3
+  isLandmark: 0
+  centerMesh: {fileID: -1022910296462400780, guid: 0cbb613bae944114db7a1acc0df9aa64,
+    type: 3}
+  sideMeshVariants:
+  - {fileID: -4721611192188081749, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: -3976436777120945704, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: 453241409733058667, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: 809921386841235715, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: -3080944105989566428, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: 8238224980649230414, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: -2871563161145137436, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  - {fileID: -7084444583506893553, guid: 0cbb613bae944114db7a1acc0df9aa64, type: 3}
+  matReg: {fileID: 2100000, guid: 10668d74e86fc8f4191b5e69dda4ca42, type: 2}
+  matGhost: {fileID: 2100000, guid: 299735729ebd85149b739108087cd4f7, type: 2}
+  matWarn: {fileID: 2100000, guid: e6b334251af6a654092638092ce714d4, type: 2}
+  matGhostWarn: {fileID: 2100000, guid: 302e85f715cc6254b8efa961aa432c2d, type: 2}
+  diffuseTexture: {fileID: 2800000, guid: a208e483f0951884082e58a7c454c93e, type: 3}
+  alphaTexture: {fileID: 2800000, guid: 46346d5388ca3d64dad7f9d3822e6423, type: 3}
+  maskTexture: {fileID: 2800000, guid: a12973648cc4c85498e8015e97e5a217, type: 3}
+  worldTexture: {fileID: 2800000, guid: bdd91747a23e2b94c952aa1be844c67c, type: 3}

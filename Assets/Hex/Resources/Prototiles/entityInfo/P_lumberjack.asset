@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9306002c295d4fb4c9aa5302d325f985, type: 3}
+  m_Name: P_lumberjack
+  m_EditorClassIdentifier: 
+  prefabName: Lumberjack
+  meshes:
+  - {fileID: 1641217443759445408, guid: 31dbd44cbcb2f87469984d39e9945cd8, type: 3}
+  protoTex: {fileID: 2800000, guid: 64033ea4112de394fa2b49073afa8285, type: 3}
+  requirement: {fileID: 11400000, guid: 7f505d6f0b88f994d9b92a392147d26b, type: 2}
+  flagsE:
+  - {fileID: 11400000, guid: 292d909c1633b07458d7994508599dad, type: 2}
+  flagsSE: []
+  flagsSW: []
+  flagsW: []
+  flagsNW: []
+  flagsNE: []
+  connectionMap: []
+  occupy: 010000000000000000000000010000000100000001000000
+  pointValueOverrideType: 0
+  pointValueOverrideTypeActive: 0
+  pointValueOverrideFlag: 18
+  pointValueOverrideFlagActive: 1
+  staticPreview: {fileID: 0}
+  autoActivate: 0

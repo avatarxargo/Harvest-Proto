@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307fd3a378591dc4aae74d50b88fbfd9, type: 3}
+  m_Name: OldGrassSurfaceInfo
+  m_EditorClassIdentifier: 
+  prefabName: old grass surface
+  type: 0
+  sideMeshVariants:
+  - {fileID: -4208440229181632812, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: 1846092809973948186, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: 137675722086429743, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: -1134902453911547404, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: -4541556234522077848, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: 5141308061855331761, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: -4208440229181632812, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}
+  - {fileID: -4208440229181632812, guid: f2a2cad5551a943429fd7cf0a0571cbf, type: 3}

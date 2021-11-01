@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9306002c295d4fb4c9aa5302d325f985, type: 3}
+  m_Name: P_mineshaft
+  m_EditorClassIdentifier: 
+  prefabName: Mineshaft
+  meshes:
+  - {fileID: 1634829695320984254, guid: f1d686b769dc40c40ad30aafbb5a1121, type: 3}
+  protoTex: {fileID: 2800000, guid: 97c5d1e7b27486f499eccf1ac46de585, type: 3}
+  requirement: {fileID: 11400000, guid: 758b99e3ae4128047aab40982a6b1f87, type: 2}
+  flagsE:
+  - {fileID: 11400000, guid: 44f17f3db4b6f914db6b37cf0b2fb672, type: 2}
+  flagsSE: []
+  flagsSW: []
+  flagsW: []
+  flagsNW: []
+  flagsNE: []
+  connectionMap: []
+  occupy: 010000000000000000000000000000000000000000000000
+  pointValueOverrideType: 0
+  pointValueOverrideTypeActive: 0
+  pointValueOverrideFlag: 0
+  pointValueOverrideFlagActive: 0
+  staticPreview: {fileID: 0}
+  autoActivate: 0

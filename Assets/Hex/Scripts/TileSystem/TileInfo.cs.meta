@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c36146b65cef70d4296a8c80beac69d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardTex: {fileID: 2800000, guid: a1e265f327ad5b64e95b2263fdfd3dca, type: 3}
+  - meshTex: {instanceID: 0}
+  - mesh: {instanceID: 0}
+  - material: {instanceID: 0}
+  - staticPreview: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 4c34eb1de1004964b9e5b5db27d83118, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

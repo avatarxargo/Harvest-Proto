@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b4d70572e244946aa24f7de2d8cbaf, type: 3}
+  m_Name: Rail_X_tB
+  m_EditorClassIdentifier: 
+  direction: 2
+  condition: {fileID: 11400000, guid: 63ba4932a8fb35140a7e8169a04b6e74, type: 2}

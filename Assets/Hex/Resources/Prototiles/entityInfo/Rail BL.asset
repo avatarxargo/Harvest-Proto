@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9306002c295d4fb4c9aa5302d325f985, type: 3}
+  m_Name: Rail BL
+  m_EditorClassIdentifier: 
+  prefabName: rail BL
+  meshes:
+  - {fileID: 9167534769145057374, guid: edf95987a8e8c5f41860374e256d89ab, type: 3}
+  protoTex: {fileID: 2800000, guid: de3d63630518bf14e9a2d1d899a75f87, type: 3}
+  requirement: {fileID: 11400000, guid: 4e2ad3dc4ef4ee14682a7278a70b83dd, type: 2}
+  flagsE:
+  - {fileID: 11400000, guid: 14fb9ddf1d8ca854787a215d62691188, type: 2}
+  - {fileID: 11400000, guid: 44882aaab9b064640bbf3a4de14758e9, type: 2}
+  flagsSE: []
+  flagsSW: []
+  flagsW: []
+  flagsNW: []
+  flagsNE: []
+  connectionMap:
+  - {fileID: 11400000, guid: ed8f5a23c28992f49ba28722b7547205, type: 2}
+  occupy: 010000000000000000000000000000000000000000000000
+  staticPreview: {fileID: 0}

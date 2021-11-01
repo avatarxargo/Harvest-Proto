@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9306002c295d4fb4c9aa5302d325f985, type: 3}
+  m_Name: P_smelter
+  m_EditorClassIdentifier: 
+  prefabName: Smelter
+  meshes:
+  - {fileID: 6698051589208924299, guid: 58415211dcd83324abfbe8bac392d1fd, type: 3}
+  protoTex: {fileID: 2800000, guid: b745219d6d8ee9640b87977f2c44ddcb, type: 3}
+  requirement: {fileID: 11400000, guid: 7f505d6f0b88f994d9b92a392147d26b, type: 2}
+  flagsE:
+  - {fileID: 11400000, guid: 4fe3b7433057a834e92f9c5bee12a067, type: 2}
+  flagsSE: []
+  flagsSW: []
+  flagsW:
+  - {fileID: 11400000, guid: b40ff2f31414fca45bb259dced3a8d5d, type: 2}
+  flagsNW:
+  - {fileID: 11400000, guid: b40ff2f31414fca45bb259dced3a8d5d, type: 2}
+  flagsNE:
+  - {fileID: 11400000, guid: 6577334530d98a34cac118bc9e17a354, type: 2}
+  connectionMap: []
+  occupy: 010000000000000000000000010000000100000001000000
+  pointValueOverrideType: 0
+  pointValueOverrideTypeActive: 0
+  pointValueOverrideFlag: 0
+  pointValueOverrideFlagActive: 0
+  staticPreview: {fileID: 0}

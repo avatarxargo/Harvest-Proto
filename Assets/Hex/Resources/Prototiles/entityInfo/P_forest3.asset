@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9306002c295d4fb4c9aa5302d325f985, type: 3}
+  m_Name: P_forest3
+  m_EditorClassIdentifier: 
+  prefabName: Forest 3
+  meshes:
+  - {fileID: 9199110796501680278, guid: b4a3d426f0d65ef4a870189bc3757f20, type: 3}
+  protoTex: {fileID: 2800000, guid: 03d554b5991675f45bdad902534921b5, type: 3}
+  requirement: {fileID: 11400000, guid: 3f559d0192479b3489a12bcd5bc5656b, type: 2}
+  flagsE:
+  - {fileID: 11400000, guid: 0b2394d2c3ba2b3408985735580f86dc, type: 2}
+  flagsSE:
+  - {fileID: 11400000, guid: 0b2394d2c3ba2b3408985735580f86dc, type: 2}
+  flagsSW: []
+  flagsW: []
+  flagsNW: []
+  flagsNE:
+  - {fileID: 11400000, guid: 0b2394d2c3ba2b3408985735580f86dc, type: 2}
+  connectionMap: []
+  occupy: 040000000400000000000000000000000000000004000000
+  pointValueOverrideType: 0
+  pointValueOverrideTypeActive: 0
+  pointValueOverrideFlag: 0
+  pointValueOverrideFlagActive: 0
+  staticPreview: {fileID: 0}
+  autoActivate: 0
